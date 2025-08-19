@@ -1,2 +1,2 @@
 # Aplikasi-Login
-Sebuah aplikasi dengan fitur kategori
+Sebuah aplikasi dengan fitur Login
